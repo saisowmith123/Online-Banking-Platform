@@ -1,0 +1,22 @@
+# --- Backend (Spring Boot) ---
+app-bank-backend/target/
+app-bank-backend/*.class
+app-bank-backend/src/main/resources/application.properties
+app-bank-backend/src/main/resources/application-*.properties
+
+# --- Frontend (React) ---
+app-bank/node_modules/
+app-bank/dist/
+app-bank/build/
+app-bank/.env
+app-bank/.env.local
+
+# --- Common ---
+.DS_Store
+*.log
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
