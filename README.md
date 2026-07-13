@@ -14,6 +14,7 @@ view transaction history, and transfer funds in real time.
 ## Tech Stack
 **Frontend:** React, Redux, Material UI  
 **Backend:** Spring Boot, REST API  
+**Database:** MySQL
 
 ## How to Run
 
